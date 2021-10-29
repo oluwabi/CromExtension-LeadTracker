@@ -1,0 +1,50 @@
+body {
+	margin: 0;
+	padding: 10px;
+	font-family: Arial;
+	font-weight: bold;
+	color: red;
+	text-align: center;
+	text-orientation: upright;
+	min-width: 400px;
+}
+
+input {
+	width: 100%;
+	color: #5f9341;
+    padding: 10px;
+    border: 1px solid #5f9341;
+    box-sizing: border-box;
+    margin-bottom: 4px;
+}
+
+button {
+	color: white;
+	width: 150px;
+	background: #5f9341;
+	padding: 10px 20px;
+	font-weight: bold;
+	border: 1px solid #5f9341;
+}
+
+/* STYLE THE LIST ACCORDING TO THE DESIGN */
+
+#delete-btn {
+    background: white;
+    color: #5f9341;
+}
+
+
+ul {
+    margin-top: 20px;
+    list-style: none;
+    padding-left: 0;
+}
+
+li {
+    margin-top: 5px;
+}
+
+li a {
+    color: #5f9341;
+}
